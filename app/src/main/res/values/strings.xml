@@ -5,5 +5,7 @@
     <string name="location_permissions">Location Permission</string>
     <string name="add_new_location">ADD NEW LOCATION</string>
     <string name="location_list">LOCATION LIST</string>
+    <string name="place_name">PLACE NAME</string>
+    <string name="place_address">place address</string>
 
 </resources>
