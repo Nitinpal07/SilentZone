@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286198323218",
+    "firebase_url": "https://silentzone-a6f77.firebaseio.com",
+    "project_id": "silentzone-a6f77",
+    "storage_bucket": "silentzone-a6f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286198323218:android:27f99a9197cc9696",
+        "android_client_info": {
+          "package_name": "nitin.luckyproject.silentzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286198323218-kp7igqlvtmfp8gvkotbj8pc4gsmju6hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nitin.luckyproject.silentzone",
+            "certificate_hash": "3f2e4deb8bb70c962869c997b2c43dbbf3becb0d"
+          }
+        },
+        {
+          "client_id": "286198323218-c1573ilph0k7pd7okabvf101tkerd482.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyklkfcjoQ4tMj_eAAsznR5s5DkVbQ3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286198323218-c1573ilph0k7pd7okabvf101tkerd482.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

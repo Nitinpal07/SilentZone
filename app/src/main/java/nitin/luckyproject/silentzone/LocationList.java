@@ -5,28 +5,25 @@ public class LocationList {
     String mplace;
     String maddress;
 
-    LocationList(){
 
-    }
-
-    public LocationList(String mplace, String maddress) {
-        this.mplace = mplace;
-        this.maddress = maddress;
+    public LocationList(String place, String address) {
+        this.mplace = place;
+        this.maddress = address;
     }
 
     public String getMplace() {
         return mplace;
     }
 
-    public void setMplace(String mplace) {
-        this.mplace = mplace;
+    public void setMplace(String place) {
+        this.mplace = place;
     }
 
     public String getMaddress() {
         return maddress;
     }
 
-    public void setMaddress(String maddress) {
-        this.maddress = maddress;
+    public void setMaddress(String address) {
+        this.maddress = address;
     }
 }
